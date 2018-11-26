@@ -1,10 +1,13 @@
-"""Settings for email demos."""
+"""Settings for email demos.
 
-FROM_ADDRESS = 'cogs18python@gmail.com'
-FROM_PASSWORD = 'm0nt3p1thon'
+Note: for public posting, emails & passwords have been removed.
+    These will have to be filled in for the code to actually work.
+"""
 
-#TO_ADDRESS = 'tdonoghue@ucsd.edu'
-TO_ADDRESS = 'bvoytek@ucsd.edu'
+FROM_ADDRESS = ""
+FROM_PASSWORD = ""
+
+TO_ADDRESS = ""
 
 EMAIL_TEXT = """Hey Boss!
 
